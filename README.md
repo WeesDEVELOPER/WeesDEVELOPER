@@ -1,4 +1,4 @@
-### Olá, amigo(a) eu sou whoami! 👋
+### Olá, amigo(a) eu sou wesley! 👋
 
 
 
