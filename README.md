@@ -65,8 +65,6 @@
 <br/>
 <hr/>
 
-![whoami Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoamiFORENSE&custom_title=Whoami%20%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 </p>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: )" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
