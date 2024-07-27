@@ -76,6 +76,6 @@
 - 🌐 **Conecte-se comigo:**
 
 
-     [![Instagram](https://img.shields.io/badge/Whoami-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whoamizx7.onion/)
+     [![Instagram](https://img.shields.io/badge/Whoami-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wess.kjk/)
     ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
