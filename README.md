@@ -37,4 +37,4 @@ Desenvolvedor Back-End e Front-End, sempre em busca de soluções simples e efic
 
 ## Conecte-se
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wess.kjk/)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](link_para_perfil_telegram)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/whoamideveloper)
