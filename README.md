@@ -1,4 +1,4 @@
-# Olá, eu sou Wesley
+# Olá, eu sou Whoami
 
 ## Um pouco sobre mim
 Desenvolvedor Back-End e Front-End, sempre em busca de soluções simples e eficientes.
